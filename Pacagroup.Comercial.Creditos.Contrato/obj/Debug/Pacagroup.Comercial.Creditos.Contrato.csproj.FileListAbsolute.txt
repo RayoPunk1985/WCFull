@@ -1,0 +1,30 @@
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.csprojResolveAssemblyReference.cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.csprojResolveAssemblyReference.cache
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.csprojResolveAssemblyReference.cache
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.Contrato\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.csprojAssemblyReference.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.csproj.CoreCompileInputs.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.csproj.CopyComplete
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.Contrato\obj\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb

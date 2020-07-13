@@ -1,0 +1,30 @@
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.csprojResolveAssemblyReference.cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.csprojResolveAssemblyReference.cache
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.csprojResolveAssemblyReference.cache
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.csprojAssemblyReference.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.csproj.CopyComplete
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb

@@ -1,0 +1,10 @@
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\bin\Release\Pacagroup.Comercial.Creditos.ConsoleConsumer.exe.config
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\bin\Release\Pacagroup.Comercial.Creditos.ConsoleConsumer.exe
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\bin\Release\Pacagroup.Comercial.Creditos.ConsoleConsumer.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\bin\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\bin\Release\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\obj\Release\Pacagroup.Comercial.Creditos.ConsoleConsumer.csprojAssemblyReference.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\obj\Release\Pacagroup.Comercial.Creditos.ConsoleConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\obj\Release\Pacagroup.Comercial.Creditos.ConsoleConsumer.csproj.CopyComplete
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\obj\Release\Pacagroup.Comercial.Creditos.ConsoleConsumer.exe
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.ConsoleConsumer\obj\Release\Pacagroup.Comercial.Creditos.ConsoleConsumer.pdb

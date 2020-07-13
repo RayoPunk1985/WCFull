@@ -1,0 +1,61 @@
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe.config
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csprojResolveAssemblyReference.cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.frmListadoCreditos.resources
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.Properties.Resources.resources
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csproj.GenerateResource.Cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe.config
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.frmListadoCreditos.resources
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.Properties.Resources.resources
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csproj.GenerateResource.Cache
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csprojResolveAssemblyReference.cache
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.frmBuscarCliente.resources
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe.config
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csprojResolveAssemblyReference.cache
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.frmListadoCreditos.resources
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.frmBuscarCliente.resources
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.Properties.Resources.resources
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csproj.GenerateResource.Cache
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe.config
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csprojResolveAssemblyReference.cache
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.frmListadoCreditos.resources
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.frmBuscarCliente.resources
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.Properties.Resources.resources
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csproj.GenerateResource.Cache
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+C:\Udemy\Wcf Project\Code\Student\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe.config
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csprojAssemblyReference.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.frmListadoCreditos.resources
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.frmBuscarCliente.resources
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.Properties.Resources.resources
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csproj.GenerateResource.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.csproj.CopyComplete
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Debug\Pacagroup.Comercial.Creditos.FormsConsumer.pdb

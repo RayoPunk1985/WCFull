@@ -1,0 +1,82 @@
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe.config
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Implementacion.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Dapper.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Implementacion.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Dapper.xml
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.csprojResolveAssemblyReference.cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe.config
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Implementacion.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Dapper.dll
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Implementacion.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Dapper.xml
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.csprojResolveAssemblyReference.cache
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+C:\Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe.config
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Implementacion.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Dapper.dll
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Implementacion.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Dapper.xml
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.csprojResolveAssemblyReference.cache
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+C:\Udemy\Wcf Project\Code\Instructor\1.SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe.config
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Implementacion.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Dapper.dll
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Contrato.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Implementacion.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Dapper.xml
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.csprojAssemblyReference.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.csproj.CoreCompileInputs.cache
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.csproj.CopyComplete
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+C:\Users\Raymundo\Desktop\Udemy\WCF\SOAP_Security\Pacagroup.Comercial.Creditos.InstaladorWinService\obj\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.pdb
